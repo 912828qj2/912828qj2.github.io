@@ -4,7 +4,8 @@
 
 1. Registered Github and Github Pages.
 2. Tried to write a blog from scratch.
-4. Tried to use Docs.QQ to help Susu for the thesis.
+3. Tried to use Docs.QQ to help Susu for the thesis.
+4. It turns out Docs.QQ doesn't have footnote function. Sigh.
 
 ### 30th Oct 2019
 
