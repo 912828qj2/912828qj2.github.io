@@ -10,5 +10,5 @@
 1. Bought domain (allaboutart.club)
 2. Created emails based on the domain
 3. Created a sub blog from Lofter, but probably won't use it too often.
-
+4. Tried to use Docs.QQ to help Susu for the thesis.
 
