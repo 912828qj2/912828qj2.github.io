@@ -1,5 +1,10 @@
 ## Welcome to All About Art
 
+### 1st Nov 2019
+
+1. Well, it is my birthday today. Happy birthday Fred.
+2. Domain forwarding finally works.
+
 ### 31st Oct 2019
 
 1. Registered Github and Github Pages.
