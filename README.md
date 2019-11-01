@@ -9,7 +9,6 @@
 
 Footnote[^1]
 
-
 ---
 
 [^1]: This is a footnote test.
