@@ -1,10 +1,10 @@
-- [Log](https://912828qj2.github.io/log.html)
+- [Log](/log.html)
 - [To Do List](/todo.html)
-- [Blog_Yang_QnA](https://912828qj2.github.io/blog_yang_qna.html)
-- [Blog_Yang_Old](https://912828qj2.github.io/blog_yang_old.html)
-- [Blog_Yang_Sth](https://912828qj2.github.io/blog_yang_something.html)
-- [FRM Market Risk](https://912828qj2.github.io/frm1.html)
-- [FRM Credit Risk](https://912828qj2.github.io/frm2.html)
+- [Blog_Yang_QnA](/blog_yang_qna.html)
+- [Blog_Yang_Old](/blog_yang_old.html)
+- [Blog_Yang_Sth](/blog_yang_something.html)
+- [FRM Market Risk](/frm1.html)
+- [FRM Credit Risk](/frm2.html)
 
 
 ---
