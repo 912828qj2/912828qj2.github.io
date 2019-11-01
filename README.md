@@ -3,6 +3,7 @@
 - [Blog_Yang_Old](https://912828qj2.github.io/blog_yang_old.html)
 - [Blog_Yang_Sth](https://912828qj2.github.io/blog_yang_something.html)
 - [FRM Market Risk](https://912828qj2.github.io/frm1.html)
+- [FRM Credit Risk](https://912828qj2.github.io/frm2.html)
 
 
 ---
