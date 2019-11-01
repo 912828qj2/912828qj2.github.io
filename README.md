@@ -7,12 +7,9 @@
 
 ---
 
-Footnote<sup>1</sup>
+Footnote[^1]
 
-Footnote<sup>2</sup>
 
 ---
 
-<sub>1. Footnote</sub>
-
-<sub>2. Footnote</sub>
+[^1]: This is a footnote test.
