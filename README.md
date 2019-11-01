@@ -2,7 +2,7 @@
 
 ### Sticking to the top.
 
-1. [FRM Market Risk]((https://912828qj2.github.io/frm1.html))
+1. [FRM Market Risk](https://912828qj2.github.io/frm1.html)
 
 ### 1st Nov 2019
 
