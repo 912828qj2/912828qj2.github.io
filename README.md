@@ -4,4 +4,12 @@
 - [Blog_Yang_Sth](https://912828qj2.github.io/blog_yang_something.html)
 - [FRM Market Risk](https://912828qj2.github.io/frm1.html)
 
+Footnote<sup>1</sup>
 
+Footnote<sup>2</sup>
+
+---
+
+<sub>1. Footnote</sub>
+
+<sub>2. Footnote</sub>
