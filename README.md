@@ -1,4 +1,4 @@
-## Welcome to [All About Art](https://912828qj2.github.io/test.md)
+## Welcome to [All About Art](https://912828qj2.github.io/test.html)
 
 ### 1st Nov 2019
 
