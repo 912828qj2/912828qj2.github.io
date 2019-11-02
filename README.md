@@ -7,12 +7,13 @@
 - [FRM Credit Risk](/frm2.html)
 - [FRM Operational Risk](/frm3.html)
 - [FRM Risk Management](/frm4.html)
+- [FRM Basel](/frm5.html)
 
 
 ---
 
-Footnote[^1]
+Footnote[^a]
 
 ---
 
-[^1]: This is a footnote test.
+[^a]: This is a footnote test.
