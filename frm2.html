@@ -28,6 +28,11 @@
 <li><a href="#credit-value-adjustment-cva">Credit Value Adjustment (CVA)</a></li>
 <li><a href="#wrong-way-risk">Wrong-Way Risk</a></li>
 <li><a href="#mitigation-of-counterparty-risk">Mitigation of Counterparty Risk</a></li>
+<li><a href="#credit-derivatives-1---cds">Credit Derivatives 1 - CDS</a></li>
+<li><a href="#credit-derivatives-2---trs">Credit Derivatives 2 - TRS</a></li>
+<li><a href="#credit-derivatives-3---credit-linked-notes">Credit Derivatives 3 - Credit-Linked Notes</a></li>
+<li><a href="#structured-products--cdo">Structured Products & CDO</a></li>
+<li><a href="#credit-decision-and-credit-analysis-1">Credit Decision and Credit Analysis</a></li>
 </ul>
 </li>
 </ul>
@@ -296,6 +301,125 @@ Any dependence, linkage, or interrelationship between the exposure and default p
 </ul>
 </li>
 <li>Hedging</li>
+</ul>
+</li>
+</ul>
+<h2 id="credit-derivatives-1---cds">Credit Derivatives 1 - CDS</h2>
+<ul>
+<li><strong>Credit Derivatives 1 - CDS</strong>
+<ul>
+<li>
+<p>In a Credit Default Swaps contract, a protection buyer (say A) pays a premium to the protection seller (say B), in exchange for payment if a credit event occurs.</p>
+</li>
+<li>
+<p>A default swap acts like a put option on the reference obligation for the buyer of the swap. If there is a default, the buyer receives a payment, which limits the buyer’s downside risk.</p>
+</li>
+<li>
+<p>A long position in a corporate bond is equivalent to a long position in a risk-free bond plus a short position in a credit default swap.</p>
+<div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-Mvax81NdYxaY1YJ6" width="100%" style="max-width: 523.109375px;" viewBox="0 0 523.109375 88"><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M177.9375,45.684341305408886L275.0390625,33L372.140625,45.792186870720904" marker-end="url(#arrowhead8937)" style="fill:none"></path><defs><marker id="arrowhead8937" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M372.140625,66.2078131292791L275.0390625,79L177.9375,66.31565869459112" marker-end="url(#arrowhead8938)" style="fill:none"></path><defs><marker id="arrowhead8938" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(275.0390625,33)"><g transform="translate(-61.3125,-13)" class="label"><foreignObject width="122.625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Periodic Payment</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(275.0390625,79)"><g transform="translate(-72.1015625,-13)" class="label"><foreignObject width="144.203125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Contingent Payment</span></div></foreignObject></g></g></g><g class="nodes"><g class="node" style="opacity: 1;" id="A" transform="translate(98.96875,56)"><rect rx="5" ry="5" x="-78.96875" y="-23" width="157.9375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-68.96875,-13)"><foreignObject width="137.9375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">A: Protection Buyer</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="B" transform="translate(449.625,56)"><rect rx="5" ry="5" x="-77.484375" y="-23" width="154.96875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-67.484375,-13)"><foreignObject width="134.96875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">B: Protection Seller</div></foreignObject></g></g></g></g></g></g></svg></div>
+</li>
+<li>
+<p>Settlement:</p>
+<ul>
+<li>Cash-settled ( include: digital)</li>
+<li>Physically Settled</li>
+</ul>
+</li>
+<li>
+<p>Nth to default CDS</p>
+<ul>
+<li>An nth to default CDS pays off when the nth default occurs in the reference asset portfolio.</li>
+<li>For this kind of swap, whenever the nth default occurs in the reference basket, the buyer stops paying the premium and receives the difference of the principal amount of the latest (nth) defaulted entity and the recovered value.</li>
+</ul>
+</li>
+<li>
+<p>Correlation in Nth to default CDS</p>
+<ul>
+<li>if the reference assets are perfectly positive correlated, the value of the first-to-default CDS will be the same as the Nth-to-default (n&gt;1) CDS because the number of defaults will likely be either 0 or all assets.</li>
+<li>If the default correlation is low, small number of defaults is more likely. Therefore, first-to-default is more preferable.</li>
+<li>When default correlation increase, there is an increased probability of more defaults, and the value of the Nth-to-default (n&gt;1) goes up accordingly.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="credit-derivatives-2---trs">Credit Derivatives 2 - TRS</h2>
+<ul>
+<li><strong>Credit Derivatives 2 - TRS</strong>
+<ul>
+<li>Total Rate of Return Swaps are contracts where one party, called the protection buyer (also called TROR payer and risk seller), makes a series of payments linked to the total return on a reference asset.<div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-3buyBRZJQmiJZt0S" width="100%" style="max-width: 601.453125px;" viewBox="0 0 601.453125 88"><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M177.9375,47.56168560124859L314.2109375,33L450.484375,47.66280472204963" marker-end="url(#arrowhead8949)" style="fill:none"></path><defs><marker id="arrowhead8949" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M450.484375,64.33719527795037L314.2109375,79L177.9375,64.4383143987514" marker-end="url(#arrowhead8950)" style="fill:none"></path><defs><marker id="arrowhead8950" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(314.2109375,33)"><g transform="translate(-111.2734375,-13)" class="label"><foreignObject width="222.546875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Payment tied to reference asset</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(314.2109375,79)"><g transform="translate(-107.203125,-13)" class="label"><foreignObject width="214.40625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Payment tied to reference rate</span></div></foreignObject></g></g></g><g class="nodes"><g class="node" style="opacity: 1;" id="A" transform="translate(98.96875,56)"><rect rx="5" ry="5" x="-78.96875" y="-23" width="157.9375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-68.96875,-13)"><foreignObject width="137.9375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">A: Protection Buyer</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="B" transform="translate(527.96875,56)"><rect rx="5" ry="5" x="-77.484375" y="-23" width="154.96875" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-67.484375,-13)"><foreignObject width="134.96875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">B: Protection Seller</div></foreignObject></g></g></g></g></g></g></svg></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="credit-derivatives-3---credit-linked-notes">Credit Derivatives 3 - Credit-Linked Notes</h2>
+<ul>
+<li><strong>Credit Derivatives 3 - Credit-Linked Notes</strong>
+<ul>
+<li>Credit-linked notes are not stand-alone derivatives contracts but instead combine a regular coupon-paying note with some credit risk feature.<div class="mermaid"><svg xmlns="http://www.w3.org/2000/svg" id="mermaid-svg-PFlZuZ1mQTmgseLz" width="100%" style="max-width: 876.15625px;" viewBox="0 0 876.15625 226"><g transform="translate(-12, -12)"><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M93.3125,116.69686350096373L190.4140625,100L287.515625,108.85969751441145" marker-end="url(#arrowhead8978)" style="fill:none"></path><defs><marker id="arrowhead8978" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M287.515625,137.14030248558853L190.4140625,146L93.3125,129.30313649903627" marker-end="url(#arrowhead8979)" style="stroke: #333; fill:none;stroke-width:2px;stroke-dasharray:3;"></path><defs><marker id="arrowhead8979" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M506.9121527777778,100L694.5703125,33L797.3515625,66.4499226177316" marker-end="url(#arrowhead8980)" style="fill:none"></path><defs><marker id="arrowhead8980" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M797.3515625,79L694.5703125,79L574.2602982954545,100" marker-end="url(#arrowhead8981)" style="fill:none"></path><defs><marker id="arrowhead8981" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M797.3515625,91.5500773822684L694.5703125,125L597.46875,124.22959152048595" marker-end="url(#arrowhead8982)" style="stroke: #333; fill:none;stroke-width:2px;stroke-dasharray:3;"></path><defs><marker id="arrowhead8982" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M563.2796223958334,146L694.5703125,171L791.671875,188.17471810745081" marker-end="url(#arrowhead8983)" style="fill:none"></path><defs><marker id="arrowhead8983" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g><g class="edgePath" style="opacity: 1;"><path class="path" d="M791.671875,202.57323678974132L694.5703125,217L504.17087765957444,146" marker-end="url(#arrowhead8984)" style="fill:none"></path><defs><marker id="arrowhead8984" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform="translate(190.4140625,100)"><g transform="translate(-14.1328125,-13)" class="label"><foreignObject width="28.265625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Xbp</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(190.4140625,146)"><g transform="translate(-72.1015625,-13)" class="label"><foreignObject width="144.203125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Contingent Payment</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(694.5703125,33)"><g transform="translate(-59.5390625,-13)" class="label"><foreignObject width="119.078125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">LIBOR + X + Ybp</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(694.5703125,79)"><g transform="translate(-11.5703125,-13)" class="label"><foreignObject width="23.140625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Par</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(694.5703125,125)"><g transform="translate(-72.1015625,-13)" class="label"><foreignObject width="144.203125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Contingent Payment</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(694.5703125,171)"><g transform="translate(-11.5703125,-13)" class="label"><foreignObject width="23.140625" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">Par</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(694.5703125,217)"><g transform="translate(-45.609375,-13)" class="label"><foreignObject width="91.21875" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel">LIBOR + Ybp</span></div></foreignObject></g></g></g><g class="nodes"><g class="node" style="opacity: 1;" id="A" transform="translate(56.65625,123)"><rect rx="5" ry="5" x="-36.65625" y="-23" width="73.3125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-26.65625,-13)"><foreignObject width="53.3125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Provide</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="B" transform="translate(442.4921875,123)"><rect rx="5" ry="5" x="-154.9765625" y="-23" width="309.953125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-144.9765625,-13)"><foreignObject width="289.953125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">CL Note:AAA Asset in trust+ Credit Swap</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="C" transform="translate(835.9140625,79)"><rect rx="5" ry="5" x="-38.5625" y="-23" width="77.125" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28.5625,-13)"><foreignObject width="57.125" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Investor</div></foreignObject></g></g></g><g class="node" style="opacity: 1;" id="D" transform="translate(835.9140625,196)"><rect rx="5" ry="5" x="-44.2421875" y="-23" width="88.484375" height="46"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-34.2421875,-13)"><foreignObject width="68.484375" height="26"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">AAA Aset</div></foreignObject></g></g></g></g></g></g></svg></div>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="structured-products--cdo">Structured Products &amp; CDO</h2>
+<ul>
+<li><strong>Structured Products &amp; CDO</strong>
+<ul>
+<li>Types of Structured Finance
+<ul>
+<li>Securitization</li>
+</ul>
+</li>
+<li>Structure
+<ul>
+<li>Tranching</li>
+<li>Waterfall<br>
+The term “waterfall” is used because the capital structure is paid in a “top down” sequence with the senior debt receiving all of its promised payments before any lower tranche receives any monies.</li>
+</ul>
+</li>
+<li>Structured Products
+<ul>
+<li>Covered Bond</li>
+<li>MBS</li>
+<li>CDO</li>
+</ul>
+</li>
+<li>Types of CDO
+<ul>
+<li>Cash-flow vs. Synthetic</li>
+</ul>
+</li>
+<li>Internal credit enhancement
+<ul>
+<li><strong>Subordination</strong></li>
+<li><strong>Over collateralization (O/C):</strong> more assets are pledged to back the structure and exceed the liabilities</li>
+<li><strong>Direct equity issue:</strong> issues debt with a face value less than the collateral in the pool and the difference could be made up by issuing equity</li>
+<li><strong>Holdback</strong></li>
+<li><strong>Cash collateral account (CCA):</strong> reserves set aside by the originator to cover losses in the pool</li>
+<li><strong>Excess spread:</strong> a positive excess spread between the collateral assets and the liabilities (coupons) of the SPV, less fees and expenses.</li>
+</ul>
+</li>
+<li>Effect of PD and Default Correlation
+<ul>
+<li><strong>The mezzanine effect is mixed</strong></li>
+<li><strong>Constant Correlation:</strong> Increasing the probability of default will negatively impact the cash flows and, thus, the values of all tranches; Increasing default probability generally decreases the VaR for the equity tranches (less variation in returns) and increases the VaR for the senior tranches (more variation in returns)</li>
+<li><strong>Constant Probability of Default:</strong> The equity tranches increases in value from increasing correlation as the possibility of zero (or few) credit losses increases from the high correlation. Senior VaR increases with correlation. As the default correlation approaches one, the equity VaR increases steadily. The interpretation is that although the mean return is increasing so is the risk as the returns are more variable (large losses or very small losses).</li>
+</ul>
+</li>
+<li>Performance Analysis</li>
+</ul>
+</li>
+</ul>
+<h2 id="credit-decision-and-credit-analysis-1">Credit Decision and Credit Analysis</h2>
+<ul>
+<li><strong>Key Variables in Mortgage Credit Assessment:</strong>
+<ul>
+<li>FICO: Number score of the default risk associated with a borrower’s credit history.</li>
+<li>DTI: Debt-to-income ratio is used to qualify mortgage payment and other monthly debt payments versus income.</li>
+<li>LTV: Expresses the amount of a first mortgage lien as a percentage of the total appraised value of the property - i.e., the loan-to-value ratio.</li>
+<li>Scorecard Performance:</li>
+<li>When measuring a scorecard’s performance, the validation technique traditionally employed is the cumulative accuracy profile (CAP) and its summary statistic, the accuracy ratio (AR):<br>
+<span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>R</mi><mo>=</mo><mfrac><msub><mi>A</mi><mi>R</mi></msub><msub><mi>A</mi><mi>P</mi></msub></mfrac></mrow><annotation encoding="application/x-tex">AR=\frac{A_{R}}{A_{P}}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.68333em; vertical-align: 0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right: 0.00773em;">R</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1.33394em; vertical-align: -0.445305em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.888636em;"><span class="" style="top: -2.655em;"><span class="pstrut" style="height: 3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.3448em;"><span class="" style="top: -2.35671em; margin-left: 0em; margin-right: 0.0714286em;"><span class="pstrut" style="height: 2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right: 0.13889em;">P</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.143293em;"><span class=""></span></span></span></span></span></span></span></span></span><span class="" style="top: -3.23em;"><span class="pstrut" style="height: 3em;"></span><span class="frac-line" style="border-bottom-width: 0.04em;"></span></span><span class="" style="top: -3.41031em;"><span class="pstrut" style="height: 3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height: 0.3448em;"><span class="" style="top: -2.35671em; margin-left: 0em; margin-right: 0.0714286em;"><span class="pstrut" style="height: 2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right: 0.00773em;">R</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.143293em;"><span class=""></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height: 0.445305em;"><span class=""></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></li>
 </ul>
 </li>
 </ul>
