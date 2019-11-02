@@ -5,6 +5,7 @@
 - [Blog_Yang_Sth](/blog_yang_something.html)
 - [FRM Market Risk](/frm1.html)
 - [FRM Credit Risk](/frm2.html)
+- [FRM Operational Risk](/frm3.html)
 
 
 ---
