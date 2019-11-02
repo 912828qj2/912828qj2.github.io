@@ -6,6 +6,7 @@
 - [FRM Market Risk](/frm1.html)
 - [FRM Credit Risk](/frm2.html)
 - [FRM Operational Risk](/frm3.html)
+- [FRM Risk Management](/frm4.html)
 
 
 ---
