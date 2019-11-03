@@ -8,6 +8,7 @@
 - [FRM Operational Risk](/frm3.html)
 - [FRM Risk Management](/frm4.html)
 - [FRM Basel](/frm5.html)
+- [FRM Cases](/frm6.html)
 
 
 ---
