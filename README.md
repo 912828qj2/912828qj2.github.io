@@ -9,7 +9,6 @@
 - [FRM Risk Management](/frm4.html)
 - [FRM Basel](/frm5.html)
 - [FRM Cases](/frm6.html)
-- [Tool](/tool.html)
 
 
 ---
