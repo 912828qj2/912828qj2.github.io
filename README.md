@@ -15,7 +15,7 @@
 
 ## Log
 
-### 04st Nov 2019
+### 04th Nov 2019
 
 1. Another new week.
 2. Finished the lunch with Allen. Now only waiting for Wed.
