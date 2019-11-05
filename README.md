@@ -15,6 +15,11 @@
 
 ## Log
 
+### 05th Nov 2019
+
+1. Sometimes you find it really hard to trust.
+2. I changed the pw of the cloudss and removed the data of the oppo mobile. Not sure if I am doing the right thing. But hard to trust now.
+
 ### 04th Nov 2019
 
 1. Another new week.
