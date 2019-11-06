@@ -1,5 +1,10 @@
 ## Some Log
 
+### 07th Nov 2019
+
+1. Phone call at around 10:00.
+2. This has been too long. Have to have a decision this week.
+
 ### 06th Nov 2019
 
 1. Moving home started.
