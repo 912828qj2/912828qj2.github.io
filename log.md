@@ -1,5 +1,3 @@
-[TOC]
-
 ## Some Log
 
 ### 06th Nov 2019
