@@ -1,4 +1,8 @@
-## Things
+## Everything
+
+
+
+## Some Things
 
 - [To Do List](/todo.html)
 - [Blog_Yang_QnA](/blog_yang_qna.html)
@@ -13,7 +17,7 @@
 
 ---
 
-## Log
+## Some Log
 
 ### 05th Nov 2019
 
