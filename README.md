@@ -1,8 +1,4 @@
-## Everything
-
-
-
-## Some Things
+# Some Things
 
 - [To Do List](/todo.html)
 - [Blog_Yang_QnA](/blog_yang_qna.html)
