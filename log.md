@@ -2,6 +2,12 @@
 
 ## Some Log
 
+### 06th Nov 2019
+
+1. Moving home started.
+2. Reference call done.
+3. Waiting for a final call.
+
 ### 05th Nov 2019
 
 1. Sometimes you find it really hard to trust.
