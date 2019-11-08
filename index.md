@@ -5,4 +5,4 @@ permalink: /
 ---
 
 # All About Art
-It is the first time that I bought a domain and get myself a site. Let's try out. Issue is the chinese fonts at the moment.
+永远在路上，永远在流浪；永远不安定，永远不长大。
