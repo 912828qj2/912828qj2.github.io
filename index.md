@@ -1,5 +1,5 @@
 ---
-title: All About Life
+title: /All About Life
 layout: home
 permalink: /
 ---
