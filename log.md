@@ -1,5 +1,10 @@
 ## Some Log
 
+### 08th Nov 2019
+
+1. Another Friday today.
+2. OK, I think this is the last step now. Maybe should end life of HK soon.
+
 ### 07th Nov 2019
 
 1. Phone call at around 10:00.
