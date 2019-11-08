@@ -1,9 +1,12 @@
 ---
-title: /All About Life
 layout: home
-permalink: /
 ---
 
-# All About Life
+ZDDHUB's Blog
+=============
 
-This is the first time that I bought a domain and try to create a site for myslef. Still learning the proper way.
+Being talented just like being gravid, must be known with a long time past. I think I need more time to be talented, so I choose an easy one and named `gravid`. 😊
+
+You can subscribe this blog from [this link](/feed.xml).
+
+I still write something, as below:
