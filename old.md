@@ -4,7 +4,7 @@ layout: page
 permalink: /old/
 ---
 
-[TOC]
+{:toc}
 
 ## 谈谈我心中的FFT和TO
 
