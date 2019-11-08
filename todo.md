@@ -1,3 +1,9 @@
+---
+title: /To Do
+layout: page
+permalink: /todo/
+---
+
 ## Family To Do List
 
 - FRM Part 2

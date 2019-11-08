@@ -1,3 +1,9 @@
+---
+title: /Log
+layout: page
+permalink: /log/
+---
+
 ## Some Log
 
 ### 08th Nov 2019
