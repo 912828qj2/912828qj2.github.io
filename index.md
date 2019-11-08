@@ -1,9 +1,9 @@
 ---
-title: /
+title: All About Life
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# All About Life
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is the first time that I bought a domain and try to create a site for myslef. Still learning the proper way.
