@@ -4,6 +4,7 @@
 
 header_pages:
   - index.md
+  - log.md
   - todo.md
 
 footer: 'Wish you a good day.'
@@ -13,3 +14,5 @@ style: light # dark (default) or light
 
 plugins:
   - jekyll-seo-tag
+
+markdown: kramdown
