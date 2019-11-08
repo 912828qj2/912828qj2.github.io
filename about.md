@@ -1,8 +1,15 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-About page
+Some information about you!
 
-If you have any question about this theme, please feel free to [email me](zddhub@gmail.com)
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)

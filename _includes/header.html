@@ -1,17 +1,15 @@
-<header class="site-header" role="banner">
-  <a class="title" href="/"><strong>{{ site.title }}</strong></a>
-  <a class="logo" href="/">
-    <img src="/assets/avatar.png" class="avatar" alt="{{ site.title }}">
-  </a>
-  <nav class="site-nav">
-    {% if site.language == 'zh-CN' %}
-      <a class="sidebar-nav-item" href="/journal">周记</a>
-      <a class="sidebar-nav-item" href="/archive">归档</a>
-      <a class="sidebar-nav-item" href="/about">关于</a>
-    {% else %}
-      <a class="sidebar-nav-item" href="/journal">Journal</a>
-      <a class="sidebar-nav-item" href="/archive">Archive</a>
-      <a class="sidebar-nav-item" href="/about">About</a>
-    {% endif %}
-  </nav>
-</header>
+<div id="header">
+  <div id="header__content">
+    <div id="header__info">
+      <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+      <p>{{site.description}}</p>
+      <img src="{{ site.baseurl }}/images/avatar.png" alt="avatar">
+    </div>
+    <ul id="header__nav">
+      <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active__link{% else %}{% endif %}">Main</a>
+      </li>
+      <li><a href="{{ site.baseurl }}/about" class="{% if page.url == '/about/' %}active__link{% else %}{% endif %}">About</a></li>
+      <li><a href="{{ site.baseurl }}/archive" class="{% if page.url == '/archive/' %}active__link{% else %}{% endif %}">Archive</a></li>
+    </ul>
+  </div>
+</div>
