@@ -4,5 +4,6 @@ layout: home
 permalink: /
 ---
 
-# All About Art
+# All About Art 一切皆艺术
 永远在路上，永远在流浪；永远不安定，永远不长大。
+
