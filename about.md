@@ -12,10 +12,3 @@ permalink: /about/
 
 ## 一直不长大
 
-
-
-
-
-
-
-# All About Art 一切皆艺术
