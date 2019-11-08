@@ -9,7 +9,7 @@ header_pages:
 
 footer: 'Wish you a good day.'
 
-style: dark  # dark (default) or light
+style: light  # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
