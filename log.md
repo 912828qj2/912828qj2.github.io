@@ -6,6 +6,10 @@ permalink: /log/
 
 ## Some Log
 
+### 09th Nov 2019
+
+1. Life is too hard. I am still sticking to my bottom line. Hope I can get what I am worthy.
+
 ### 08th Nov 2019
 
 1. Another Friday today.
