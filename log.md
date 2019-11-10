@@ -6,6 +6,11 @@ permalink: /log/
 
 ## Some Log
 
+### 10th Nov 2019
+
+1. 刷第三遍题了，还有一周。
+2. 最后几个小时将会决定我的未来三年吧。希望不要让我失望。但最终，我是要回去的。
+
 ### 09th Nov 2019
 
 1. Life is too hard. I am still sticking to my bottom line. Hope I can get what I am worthy.
