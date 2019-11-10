@@ -14,6 +14,7 @@ permalink: /todo/
 - Mobile number - both Nana and mine
 - Address information
 - Tax
+- Marco Trip
 
 ## Done
 
