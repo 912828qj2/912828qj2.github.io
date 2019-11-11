@@ -6,6 +6,11 @@ permalink: /log/
 
 ## Some Log
 
+### 11th Nov 2019
+
+1. Not the best deal but it is the best deal that I can get at the moment to get back Shanghai. 
+2. That's it, count down my life in HK.
+
 ### 10th Nov 2019
 
 1. 刷第三遍题了，还有一周。
