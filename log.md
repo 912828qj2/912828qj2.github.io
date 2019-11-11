@@ -6,6 +6,17 @@ permalink: /log/
 
 ## Some Log
 
+### 10th Nov 2019
+
+1. 刷第三遍题了，还有一周。
+2. 最后几个小时将会决定我的未来三年吧。希望不要让我失望。但最终，我是要回去的。
+3. 两封信都写好了，就等最后的答复了。
+
+### 09th Nov 2019
+
+1. Life is too hard. I am still sticking to my bottom line. Hope I can get what I am worthy.
+2.  金樽清酒斗十千，玉盘珍羞直万钱。停杯投箸不能食，拔剑四顾心茫然。欲渡黄河冰塞川，将登太行雪暗天。闲来垂钓碧溪上，忽复乘舟梦日边。行路难！行路难！多岐路，今安在？长风破浪会有时，直挂云帆济沧海。 
+
 ### 08th Nov 2019
 
 1. Another Friday today.

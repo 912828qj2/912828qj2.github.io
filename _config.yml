@@ -6,10 +6,11 @@ header_pages:
   - index.md
   - log.md
   - todo.md
+  - about.md
 
 footer: 'Wish you a good day.'
 
-style: light # dark (default) or light
+style: light  # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
