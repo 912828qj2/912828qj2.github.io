@@ -1,4 +1,10 @@
-[TOC]
+---
+title: /HK MO
+layout: page
+permalink: /hkmo/
+---
+
+
 
 # Hong Kong Middle Office Tasks
 ## Daily Tasks
