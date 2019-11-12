@@ -24,6 +24,8 @@ In the morning, please open TradeSmart to see what is the most updated APAC loca
 David has some trades under special strategies that our commission table doesn't work for those so that we need to manually adjust.
 #### How
 
+In container - trade search - save search -> find "David Cook New 4.5bps Comm Check" -> run the search with updated date, the result should be the trades that need to update the commissions.
+
 ### Restricted CCY checking
 ### NAB fail check
 ### daily DVD & CPN posting check
