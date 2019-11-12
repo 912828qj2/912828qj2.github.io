@@ -4,7 +4,7 @@ layout: page
 permalink: /hkmo/
 ---
 
-
+[TOC]
 
 # Hong Kong Middle Office Tasks
 ## Daily Tasks
