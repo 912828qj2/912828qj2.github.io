@@ -6,6 +6,10 @@ permalink: /log/
 
 ## Some Log
 
+### 12th Nov 2019
+
+1. 正式交信了。
+
 ### 11th Nov 2019
 
 1. Not the best deal but it is the best deal that I can get at the moment to get back Shanghai. 
