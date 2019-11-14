@@ -28,7 +28,7 @@ In container - trade search - save search -> find "David Cook New 4.5bps Comm Ch
 
 ### Restricted CCY checking
 ### NAB fail check
-### daily DVD & CPN posting check
+### Daily DVD & CPN posting check
 ### BONY file drop
 
 #### Why
@@ -56,6 +56,10 @@ Checking the file status in the CTC - Missing Feeds for each reconciliation item
 I am currently looking after the category "AssetServicing" and "Tax" in txn reconciliation.
 All APAC names in stock loan reconciliation
 
+### Setup Error Fixing
+
+
+
 ## Weekly Tasks
 ### Upcoming coupon WHT checking
 ### Stamp Duty CB hedge
@@ -76,7 +80,7 @@ All APAC names in stock loan reconciliation
 ### TRS unwind settlement
 ### Positions moving
 
-### JP DVD LOCKS
+### JP DVD LOCKS push through
 
 ### China Domestic CB - TRS
 
