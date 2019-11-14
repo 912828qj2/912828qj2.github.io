@@ -30,7 +30,15 @@ In container - trade search - save search -> find "David Cook New 4.5bps Comm Ch
 ### NAB fail check
 ### daily DVD & CPN posting check
 ### BONY file drop
+
+#### Why
+
+BONY CTC files are not automated yet, so need to manually saved down from emails to the folders.
+
+#### How
+
 There are two emails containing two files coming around 2pm to 3:15pm HKT, named "Portfolio Holdings_DD Mmm YYYY.csv" and "Transaction History Report_DD Mmm YYYY.csv". Please save them down first and move to "R:\Middle Office\Operations - Reference\Control\ManualFileDrops"
+
 ### NAB file drop
 
 #### Why
@@ -59,8 +67,16 @@ All APAC names in stock loan reconciliation
 ### Offshore onshore funds ratio update
 ### TRS reset settlement - different names
 
-## Adhoc Tasks
+## Adhoc Tasks and Some Special Things
 ### Security Setup
+
+### Counterparty Setup
+
 ### Adhoc security conversion
 ### TRS unwind settlement
 ### Positions moving
+
+### JP DVD LOCKS
+
+### China Domestic CB - TRS
+
