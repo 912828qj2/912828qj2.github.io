@@ -6,6 +6,11 @@ permalink: /log/
 
 ## Some Log
 
+### 15th 2019
+
+1. Cannot believe my exam is cancelled.
+2. SZ trip next week! Moving forward!
+
 ### 14th Nov 2019
 
 1. When you don the skin of the beast, the man within dies.
