@@ -6,6 +6,11 @@ permalink: /log/
 
 ## Some Log
 
+### 14th Nov 2019
+
+1. When you don the skin of the beast, the man within dies.
+2. 今天那个老大发脾气，不是没有道理，但是很没意思·。
+
 ### 13th Nov 2019
 
 1. 感觉真是交对了时候，只是会不会影响将来的工作呢。香港真是呆不下去了。
