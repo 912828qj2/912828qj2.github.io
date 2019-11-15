@@ -84,3 +84,5 @@ All APAC names in stock loan reconciliation
 
 ### China Domestic CB - TRS
 
+### DvP vs FoP - especially for xccy trades
+
