@@ -6,7 +6,6 @@ permalink: /todo/
 
 ## Family To Do List
 
-- FRM Part 2
 - Jane Insurance
 ## HK To Do List
 
@@ -14,7 +13,7 @@ permalink: /todo/
 - Mobile number - both Nana and mine
 - Address information
 - Tax
-- Marcao Trip
+- Macao Trip
 
 ## Done
 
@@ -22,3 +21,4 @@ permalink: /todo/
 - ~~Stuart Reserve Px Check~~
 - ~~Yuni Salary Oct 2019~~
 - ~~Moving House~~
+- ~~FRM Part 2~~
