@@ -6,6 +6,12 @@ permalink: /log/
 
 ## Some Log
 
+### 17th Nov 2019
+
+1. 不知道这周末都干了什么。
+2. 香港还在乱。
+3. 其实还蛮期待周二周三的。
+
 ### 15th Nov 2019
 
 1. Cannot believe my exam is cancelled.
