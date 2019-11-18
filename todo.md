@@ -9,6 +9,7 @@ permalink: /todo/
 - Jane Insurance
 ## HK To Do List
 
+- SZ social insurance
 - Bank Account ID information update
 - Mobile number - both Nana and mine
 - Address information
