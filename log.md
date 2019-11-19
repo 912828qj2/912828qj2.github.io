@@ -6,6 +6,11 @@ permalink: /log/
 
 ## Some Log
 
+### 14th Nov 201
+
+1. FRM exam of tmr is cancelled. I feel soooo bad.
+2. Shenzhen trip on 20th Nov.
+
 ### 13th Nov 2019
 
 1. 感觉真是交对了时候，只是会不会影响将来的工作呢。香港真是呆不下去了。
