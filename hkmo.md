@@ -27,7 +27,25 @@ David has some trades under special strategies that our commission table doesn't
 In container - trade search - save search -> find "David Cook New 4.5bps Comm Check" -> run the search with updated date, the result should be the trades that need to update the commissions.
 
 ### Restricted CCY checking
-### NAB fail check
+
+#### Why
+
+There are some ccy is restricted ccy in APAC, IDR INR THB KRW - whenever there is such amount to settle or received, we need to converted them to USD.
+
+#### How
+
+In container - trade search - save search -> find "Restricted ccy" -> run the search with updated date, the result should be the amount that you need to take care. Always check with PB first.
+
+### NAB fails check
+
+#### Why
+
+NAB fails doesn't flow down to Front automatically, so we need to manually check and update the status.
+
+#### How
+
+NAB (local agent CITI) sends fails in email multiple times a day to both tradeconfirms and sharedsettlements -> check if there is any fails. If there is, open the relevant trade in Front and update the PBstatus to "Failed"
+
 ### Daily DVD & CPN posting check
 ### BONY file drop
 
@@ -47,7 +65,7 @@ NAB daily files are not automated yet, so we need to manually download from the 
 
 #### How
 
-Please download the daily transactions and position statements from NAB website and drop them in ""R:\Middle Office\Operations - Reference\Control\ManualFileDrops""
+Please download the daily transactions and position statements from NAB website and drop them in "R:\Middle Office\Operations - Reference\Control\ManualFileDrops"
 
 ### Stock loan check - borrow / return
 ### CTC file status
