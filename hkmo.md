@@ -1,9 +1,3 @@
----
-title: /HK MO
-layout: page
-permalink: /hkmo/
----
-
 [TOC]
 
 # Hong Kong Middle Office Tasks
