@@ -81,7 +81,7 @@ Offshore firm is named as Invealth Capital at the moment and is being acquired b
 
 # LakeFront
 
-## Current Structure
+## Current Situation
 
 ### Basic Information
 
