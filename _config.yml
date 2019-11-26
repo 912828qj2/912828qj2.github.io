@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - log.md
   - todo.md
+  - yuni.md
   - about.md
 
 footer: 'Wish you a good day.'
