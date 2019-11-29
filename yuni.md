@@ -10,9 +10,9 @@ permalink: /yuni/
 | 10.2019 | -4,000.00 | Bank Transfer |
 | 11.2019 | +4,000.00 | Nov Salary    |
 | 11.2019 | -0,050.00 | Face Cream    |
+| 12.2019 | +4,000.00 | Dec Salary    |
 |         |           |               |
 |         |           |               |
 |         |           |               |
-|         |           |               |
-| Total   | +3,950.00 |               |
+| Total   | +7,950.00 |               |
 
