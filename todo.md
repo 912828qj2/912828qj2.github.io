@@ -14,7 +14,7 @@ permalink: /todo/
 - Mobile number - both Nana and mine
 - Address information
 - Tax
-- Macao Trip
+- Macau Trip
 
 ## Done
 
