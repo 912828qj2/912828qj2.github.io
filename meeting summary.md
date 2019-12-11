@@ -1,3 +1,9 @@
+---
+title: /kflr
+layout: page
+permalink: /kflr/
+---
+
 [toc]
 
 ﻿# KaiFeng
