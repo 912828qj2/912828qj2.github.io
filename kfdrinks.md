@@ -4,7 +4,7 @@ layout: page
 permalink: /kfdrinks/
 ---
 
-# Kai Feng Drinks - Wei, Zhang Bo and Gao Bin
+# Kai Feng Drinks - Gao, Liu, Yang and Zhang
 
 ## Shenzhen office
 
@@ -12,18 +12,18 @@ permalink: /kfdrinks/
 2. High Turnover for young staffs.
 
 3. CEO Wang is not Investment background. He was a head of managers of CRC in Shenzhen. Wang Dongyang joined KF in 2017. He focused at KF company structure and marketing for 1st year and 2nd year.
-4. Investment Committee: Wu Xing, Gao Bin, Zhang Kun, Wang Wei, Zhang Bo, Xiaohui, He Bo.
+4. Investment Committee includes Wu Xing, Gao Bin, Zhang Kun, Wang Wei, Cao Bo, Xiaohui, He Bo.
 5. Two issues
    1).  how much risk is under control of Wu Xing - around 50% to 60%. 20% Quant 10% Fixed Income totally out of control of Wu Xing.
    2).  how to sync the investment idea of the whole research team. CEO Wang is not investment back ground, too many research members, and some old staffs under new managers making it more difficult.
 
 ## Hong Kong Office
 
-1. Name changed done. Now KF HK.
+1. Name changed done. Now KaiFeng HK.
 
 2. VIE structure done. waiting for the acquiring agreement to sign and then notify SFC
 
-3. One RO Michael leaving, Zhang Bo joined. Onshore commercial bank fx, macro trading experience. 4 years AsiaLion in HK.
+3. One RO Michael left and RO Zhang Bo joined. Zhang Bo - onshore commercial bank fx, macro trading experience. 4 years AsiaLion experience with Jim (CICC) in HK.
 
 4. Gao`s team plan: to hire one office manager, one junior trader, one junior operations and maybe one marketing.
 
