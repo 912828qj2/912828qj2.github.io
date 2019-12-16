@@ -427,6 +427,167 @@ Topic: Exploration and Practice of Domestic Private Equity Funds by Foreign Inst
 
 ### Round Table One
 
+Hosted By DAN Bing
+
+**GAO Yuncheng**
+Next year's return on investment may be lower than this year's big market Hong Kong
+Hong Kong stocks may be a cheaper stage.
+May have a chance for A shares and Hong Kong shares Hong Kong shares fell, but there is no rebound. May have a chance next year
+IPO major Hong Kong
+May make money for the company itself
+
+**HU Jianping**
+2018 2019 Last year, everyone was a bit pessimistic. Finally, the central bank gave special support to China's real estate. There is no problem. The resilience is very strong. Immunity between China and the United States negotiations.
+More optimistic about the economy
+It feels that foreign capital will flow in, and new rules for asset management will also work.
+
+**HAN Guangbin**
+Hong Kong stocks may rise
+2019 is a big year, but the index is still 2900
+There are still many short-sellers
+2019 is the start of 2017
+I ’m more worried that U.S. stocks trade seems to have an agreement, which in turn gives A-shares a support
+
+*How to invest in value when volatility is high*
+
+**GAO Yuncheng**
+The driving force of persistence is to know the companies that they invest in and have a stable background level
+Example of Shanghai Airport
+So there must be a balanced portfolio of companies
+The hardest part is to manage other people's money.
+Hardened lock-in period from 17 years, two to three years
+
+**HU Jianping** 
+Risk control Several purposes Return and controllability
+Volatility is a necessary condition for earnings. Communicate well with clients and let investors understand managers.
+
+Industry will continue
+Internet application, China's only
+In the financial services industry, only this industry has experienced a decline in concentration. This is against risk control capabilities and may be the time to reverse.
+
+Increased demand for financial management
+
+**HAN Guangbin**
+Starting at 50,000 yuan
+No customers, no external funding
+Nothing comes in, all are private
+Don't lock up period
+Not on the phone
+No client concept, only investment partners
+Education industry has potential
+
+*What can't vote? What charity did, ESG standards*
+
+**GAO Yuncheng**
+There are non-voteable lists, and restricted combinations do perform better
+Because these companies with ESG issues often have policy risks
+
 ### Round Table Two
 
+Hosted By XIANG Jihong
+
+**WU Qiong**
+Chinese dollar debt
+Yield reached 12%
+Domestic RMB debt
+Aijian 0%
+ChinaBond less than 3%
+
+China's bond default rate is rising
+
+**YOU Jiong**
+Interaction between China and the US
+A Trump stimulus
+China-US conflict escalates
+So it depends on the interaction between the two countries.
+
+**LI Gang**
+New cycle requires new currency paradigm
+Fed Preventive Rate Cut
+Bank of China's two departments make decisions
+
+**TANG Yiting**
+New cycle
+Why is China's economy resilient? Economic growth has slowed, but capacity utilization is at its highest in history.
+The first reason is that demand continues to fall, and on the other hand, industrial fixed asset investment growth is also falling, which means that depreciation cannot be made up. But demand is still growing. So there is still a tight balance with demand and supply. So economic performance is still OK.
+
+**CAI Canhuang**
+For private banks, asset allocation is more important.
+
+*From the perspective of the private bank, what is the cooperation plan with the private equity manager*
+
+**CAI Canhuang**
+The combination with private equity is very high. Private equity bonds are still more advantageous.
+Policy restrictions are relatively high, and many private placements are still difficult to do. Only trust and investment advisors.
+
+*Can the demand rise?*
+
+**TANG Yiting**
+Depends on the leading indicators, credit. It has been rising all the way since January, and it is now relatively stable.
+Once the economy rebounds, prices rebound particularly strongly. I believe the rebound is just around the corner.
+
+*Liquidity layering, fragmentation*
+
+**LI Gang**
+First, the credit deficit is relatively large
+Second, the physical supply side reform ended in the first half. Technology reform in the second half depends on the capital market. The credit market itself is risk aversion
+
+*How do foreign investors view the mainland market?*
+
+**YOU Jiong**
+Five years ago, old money ignored emerging markets
+Three years ago they began to change, Europe began to watch
+Now the United States is starting to watch too
+
+*Operation of high-yield debt funds abroad*
+
+**WU Qiong**
+First, there is a lock-up period of more than three years, and the income requirement is 6% to 8%
+Second, investment decisions will be more systematic, with a preference for Australia and India. Foreign capital is not familiar with the concept of China's bankruptcy law, so it has not participated much. Instead, there are many domestic private equity participation.
+Third, there will be some new energy projects
+
 ### Round Table Three
+
+Hosed by ZHANG Zhizhou
+
+**ZHOU Siyao**
+Kaifeng Research on the whole industry chain
+The market is cruel, and non-ferrous metals do not receive much attention. Variety of global logistics transportation. There is a great correlation with the macro.
+In the past three years, we have completed a complete cycle
+Copper 20% Copper tube Air conditioner 16 17 Air conditioner sales are high Internal and external sales are good 50% Wires and some keys
+The volatility has been small in the past three years, and it may increase in the future
+Supply policy constraints. Demand is half of China.
+Real estate renovation will design non-ferrous metals. It may not be until 2021 that non-ferrous metals will be driven.
+
+Inventory cycles, entrepreneurs may act first. Go to the cycle first.
+
+The Belt and Road Initiative exists, and lignite is produced in Indonesia. It is now clear that Indonesia's power generation has risen. In the future, these countries' economies will import more industrial products into China.
+
+**LIU Zhe - Zhejiang Material Finance Group**
+Ferrous metals
+2020 major contradictions shift from iron ore to steel this year
+Real estate judgment. Distribution of large infrastructure.
+Changes in infrastructure policies benefit infrastructure in the long run
+But at the level of local government, it depends on the local financial situation.
+Real estate developers have performed land relocation recently, so building materials are still expected to grow
+
+National steel production census may affect future situation
+
+**YANG Yilei - Dunhe**
+Petrochemical capacity
+Crude oil is the center of all chemical industry
+Chemical cycle is the cycle of ethylene
+Consumption toughness is relatively strong
+
+*How to evaluate commodity stocks*
+
+**ZHOU Siyao**
+The difference between commodities and stocks is that the duration is inconsistent. The use of funds to express prices, the expression of commodities is the value of the due date. But stocks express a longer latitude.
+
+**LIU Zhe**
+The market regards steel as cyclical stocks, but believes that steel stocks have the potential for stable returns.
+How the steel industry 13 to 16 reduce costs, every link.
+16 to 18 years can generate theory and increase production. Overall profitability is rising.
+
+**YANG Yilei**
+The reform of chemical industry is directional. Then came the oil.
