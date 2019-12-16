@@ -196,3 +196,46 @@ Reform
 5. Improve the market exit mechanism
 6. Implementation of classified supervision Differentiated supervision arrangements
 
+
+
+### PAN Dong - General Manager, Everbright Financial Management 
+
+Topic: Asset Management New Ecology
+
+Industry changes:
+
+1. Product form changes
+
+2. New company ecology, 7 new wealth management companies
+3. Talents move towards wealth management sector
+4. Technological changes
+
+Everbright Financial Management Development Started in 2015 and formally established in September 2019
+
+Product System - Colorful Sunshine Net
+
+New ecology of asset management
+Return to asset management logic
+
+1. Transformation from shadow banking to asset management
+
+2. New species of wealth management subsidiary
+3. Opening up and differences between China and foreign countries
+4. Technological Progress Digital Power
+
+Shorter asset duration
+Longer Capital term maturity
+
+Investor trust in private equity. Asset management should serve enterprises and the ecology of financial institutions
+
+Wealth management firm's outlook for the private equity market
+Economic development needs
+Compliance policy guidance
+
+Wealth management companies enter the private equity industry with licensed institutions
+
+Difficulties in the industry
+
+1. Restrictions on the number of people 
+2. Term matching 
+3. Investor confidence
