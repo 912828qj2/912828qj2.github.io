@@ -9,7 +9,7 @@ permalink: /kfdrinks/
 ## Shenzhen office
 
 1. Qiu Di left the firm at 2017 end with some core members, and they did well in 2018, up 70%. Leaving reason might be disagreement on how to distribute the profit. 2019 down 30%
-2. High Turnover for young staffs.
+2. High Turnover of young staffs.
 
 3. CEO Wang is not Investment background. He was a head of managers of CRC in Shenzhen. Wang Dongyang joined KF in 2017. He focused at KF company structure and marketing for 1st year and 2nd year.
 4. Investment Committee includes Wu Xing, Gao Bin, Zhang Kun, Wang Wei, Cao Bo, Xiaohui, He Bo.
@@ -25,6 +25,6 @@ permalink: /kfdrinks/
 
 3. One RO Michael left and RO Zhang Bo joined. Zhang Bo - onshore commercial bank fx, macro trading experience. 4 years AsiaLion experience with Jim (CICC) in HK.
 
-4. Gao`s team plan: to hire one office manager, one junior trader, one junior operations and maybe one marketing.
+4. Gao‘s team plan: to hire one office manager, one junior trader, one junior operations and maybe one marketing.
 
-5. As mentioned in previous meeting, Gao confirmed again, most of the assets would be replicated from onshore strategy, small portion may be allocated to offshore products or strategy that onshore doesn't`t have access to. Zhang shows interest on this portion.
+5. As mentioned in previous meeting, Gao confirmed again, most of the assets would be replicated from onshore strategy, small portion may be allocated to offshore products or strategy that onshore doesn't have access to. Zhang shows interest on this portion.
