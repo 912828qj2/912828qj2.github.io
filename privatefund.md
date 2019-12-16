@@ -281,6 +281,7 @@ preqin has an ESG index
 ### ZHONG Rongsa - Vice Chairman of China Asset Management Association
 
 Three points of view - pension bottom design
+
 First, A current situation of the development of private equity securities is relatively rudimentary. There is a huge space for high net worth customers. Large private banking sector has recognized private equity funds. Private equity funds cannot yet enter directly. If you live on your own, you can do it all by yourself or outsource it to different needs. Private equity funds can issue products on their own. Clarification-legal relationship, private fund as consultant, trust + private placement. The problem is in publicity. Both performance and brand are recognized. Public and private laws still need to be separated and clarified. Long tail characteristics are obvious. The number is large, but the scale is not large, and there are more than 100 million.
 
 Second, investment tools are more flexible, richer, and more options, so the absolute benefit may be higher. Product filing is fast. The association has been reflecting on the registration process. Private equity funds are more like the Internet industry. The head mechanism is better, but the registration of the tail mechanism is tightening. Holding tube. Do not want the private equity license to be fired. Keep your running water.
@@ -290,4 +291,142 @@ Third, Future work - negative list. More emphasis is placed on the transparency 
 What's more?
 
 First, let more professional people to do this work in the future. Good institutions may customize their products in the future. Operational data reporting determines the creditworthiness of the fund.
+
 Second, the design of pensions. Through tax deferrals, everyone can keep investment. The association is pushing responsible investment to return to the origin of professionalism.
+
+
+
+### Ted Lee - SPM of CPPIB
+
+Topic:  View from long term investors
+
+Overview of CPPIB'S china investments
+
+- a professional investment management organization
+- independent director
+- financial background
+- segregated assets
+- transparency and accountability
+- 140billion USD to over trillion
+- professional investors
+- www.cppib.com
+
+Active management
+
+Structural advantage
+
+Size and Scale
+
+Certainty of cpp fund assets
+
+Long term investment horizon
+
+Developers advantage
+
+Talent and high performance culture
+
+Smart partners
+
+Total talent approach
+
+We have a professional investment org capable of handling the scale
+
+China will definitely play a big role. And emerging market will play a more important role.
+
+Geographic and asset-class diversification
+
+1/3 assets will be in emerging markets
+
+6 departments
+
+1. PE
+2. real estate
+3. credit investment
+4. active management
+5. capital investment
+6. total portfolio management
+
+CPPIB has hk office as the 2nd office apart from HQ
+
+Key investment in china, 52.8B USD
+
+Contribution to china's social economic exchange
+
+cooperation with AMAC, sbai to compare the standard of sbai
+
+chain
+savers -> assets owner -> assets manager -> corporate -> boards management
+
+Long term success requires long term thinking
+Benefits of long term oriented company
+Stronger fundamentals
+Invest more in R&D
+70% to 90% of company value is related to cash flow 3+ year out
+
+Slower growth and a "new normal state"
+
+External Portfolio Management (EPM)
+Can invest in private fund - hillhouse / gyassets
+
+QFII RQFII
+18% annual return
+
+### RU Ping - Investment Director, Neuberger Berman
+
+Topic: Looking for the lighthouse in the mist 
+
+2020 Outlook
+Everyone loses money in 2018
+Everyone makes money in 2019
+What will happen in 2020
+
+The biggest risk is political policy
+
+- US Election
+- Brexit news
+- Sino-US trade friction
+
+Global easing, emerging markets emerging markets expected to cut interest rates
+Hard to find return
+Monetary policy has reached its limit
+If fiscal stimulus is effectively implemented, it is expected to take over and support the global economy
+Even if the economy is not in recession, risks are rising
+Increased risk of recession
+
+The economic growth rate will be revised down in 2020, and the growth force is still higher than this year
+Pay attention to the improvement of business climate
+Hard soft economic data expected to reveal good news
+US and European interest rates further converge, making US debt more attractive
+Credit asset performance will diverge
+Longer market volatility will create value
+Active investment opportunities emerge under the surface
+Private market growth
+Opportunities for liquidity alternatives in market ups and downs
+
+The next step in financial markets
+
+General Economy
+Is the US recession really here? No
+What else is worth observing? Consumer index
+Will the next recession be terrible, like in 2008? Probably not.
+
+Stock market articles
+What do you think about stock market events? Expect to lower
+US stocks are relatively high, how do you invest? Small cap
+How are U.S. companies profiting? Q3 2019 bottoms, Q4 2019 and 2020 will rebound
+
+Bonds
+The stock market is too expensive. Where have all the funds gone? Bond
+How are bonds distributed? Diversified investment
+
+### LIU Wei - Partner of Clocktower Group
+
+Topic: Exploration and Practice of Domestic Private Equity Funds by Foreign Institutional Investors
+
+.....
+
+### Round Table One
+
+### Round Table Two
+
+### Round Table Three
