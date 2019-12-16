@@ -239,3 +239,42 @@ Difficulties in the industry
 1. Restrictions on the number of people 
 2. Term matching 
 3. Investor confidence
+
+### CHIA Jiesin - Head of Product Management, Asia-Pacific
+
+Topic:  Review and Prospect of Alternative Assets Industry
+
+Preqin Introduction
+Industry data
+Various types of alternative assets
+
+Fundraising in 2019
+Analysis of Alternative Assets Industry
+AUM triples over the past decade
+10.7 trillion USD
+13,000 investment institutions are actively investing in alternative assets, and 3500 companies ten years ago 20% were in Asia
+Private equity fundraising slows in 2018
+
+Hedge funds have experienced four quarters of outflows, and now the aum of hedge funds is still at an all-time high. The total size of the industry is 3.6 trillion U.S. dollars.
+
+Stable funds continue to flow into head private equity managers
+Instead, large hedge funds face withdrawal of funds.
+
+Investor and fund manager perspectives
+Investors are more satisfied with the performance of most alternative asset fund industries, and private equity funds are the best
+Good performance, better return on new private equity
+In contrast, the performance of hedge funds is not as good as expected, the market in 2018 is general, and 2019 is improving
+
+Most investors still intend to increase or maintain investment in alternative assets
+
+Emerging markets need more transparency to attract capital
+
+Global alternative asset size estimated to reach $ 14 trillion by 2023
+
+Investor demand is leading the full implementation of ESG policies. Investors have this need.
+preqin has an ESG index
+
+
+
+## Afternoon Session
+
