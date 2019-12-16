@@ -278,3 +278,16 @@ preqin has an ESG index
 
 ## Afternoon Session
 
+### ZHONG Rongsa - Vice Chairman of China Asset Management Association
+
+Three points of view - pension bottom design
+First, A current situation of the development of private equity securities is relatively rudimentary. There is a huge space for high net worth customers. Large private banking sector has recognized private equity funds. Private equity funds cannot yet enter directly. If you live on your own, you can do it all by yourself or outsource it to different needs. Private equity funds can issue products on their own. Clarification-legal relationship, private fund as consultant, trust + private placement. The problem is in publicity. Both performance and brand are recognized. Public and private laws still need to be separated and clarified. Long tail characteristics are obvious. The number is large, but the scale is not large, and there are more than 100 million.
+
+Second, investment tools are more flexible, richer, and more options, so the absolute benefit may be higher. Product filing is fast. The association has been reflecting on the registration process. Private equity funds are more like the Internet industry. The head mechanism is better, but the registration of the tail mechanism is tightening. Holding tube. Do not want the private equity license to be fired. Keep your running water.
+
+Third, Future work - negative list. More emphasis is placed on the transparency of registration. A clearer way of working next year. The fund did not know exactly what the association wanted. The agency sometimes creates opaque information. May be submitted later. The transparency of the review progress will also inform the market. Those who report abnormal information about which institutions will lose contact in the future should also be publicly posted. The association's new website will become an office website. Online before the Spring Festival. It will also become a deterrent website.
+
+What's more?
+
+First, let more professional people to do this work in the future. Good institutions may customize their products in the future. Operational data reporting determines the creditworthiness of the fund.
+Second, the design of pensions. Through tax deferrals, everyone can keep investment. The association is pushing responsible investment to return to the origin of professionalism.
