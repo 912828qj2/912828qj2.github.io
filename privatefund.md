@@ -296,7 +296,7 @@ preqin has an ESG index
 
 
 
-### Ted Lee - SPM of CPPIB
+### Ted Lee - Principal of CPPIB APAC
 
 *Topic:  View from long term investors*
 
@@ -403,7 +403,7 @@ Active investment opportunities emerge under the surface
 Private market growth
 Opportunities for liquidity alternatives in market ups and downs
 
-The next step in financial markets
+*The next step in financial markets*
 
 **General Economy**
 Is the US recession really here? No
