@@ -466,19 +466,22 @@ Hardened lock-in period from 17 years, two to three years
 Risk control Several purposes Return and controllability
 Volatility is a necessary condition for earnings. Communicate well with clients and let investors understand managers.
 
-Industry will continue
-Internet application, China's only
+Industry will continue to grow.
+Internet application, China is the only country that may have opportunity here.
 In the financial services industry, only this industry has experienced a decline in concentration. This is against risk control capabilities and may be the time to reverse.
 
-Increased demand for financial management
+Increased demand for financial management.
 
 **HAN Guangbin**
-Starting at 50,000 yuan
+
+Introduced himself:
+Started at 50,000 yuan
 No customers, no external funding
 Nothing comes in, all are private
-Don't lock up period
-Not on the phone
+No lock up period
+No phone conference call with clients
 No client concept, only investment partners
+
 Education industry has potential
 
 *What can't vote? What charity did, ESG standards*
