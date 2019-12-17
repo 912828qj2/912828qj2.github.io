@@ -21,17 +21,17 @@ Introduced current situation of private funds industry in China.
 1. Size - Small
 2. Investment - Short term
 3. Quality - Low
-4. Fund raising - difficult
+4. Fund raising - Difficult
 
-Three mutul agreement
+Three mutual agreements
 
 1. To provide support to the real business entities
 2. To strength the regulation
-3. To form investmment system and enviroment
+3. To form investment system and environment
 
 What to do Next
 
-1. To improve corporate governance and ccapabilities
+1. To improve corporate governance and capabilities
 
 2. To improve the efficiency of industry supervision
 
@@ -48,13 +48,13 @@ What to do Next
 10. To shape a good external ecology and enhance environmental tolerance
 11. To raise investment management and retirement mature investors
 
-Introduced the current status of that Chongqing private equity manager's investmenet in Shenzhen
+Introduced the current status of that Chongqing private equity manager's investments in Shenzhen
 
 And introduced the fact that external private funds were entering Chongqing
 
 ### WEI Jianing - Researcher, Macro Department, Development Research Center of the State Council
 
-Topic: Economic growth slows down and reforms increase
+*Topic: Economic growth slows down and reforms increase*
 
 Part I
 
@@ -64,7 +64,7 @@ Transforming development methods, optimizing economy, and transforming growth dr
 
 Long-term factors - Declining potential growth rate
 
-Medium term factor - Lack of thought emancipation in the reform cycle. Before they were 1. Truth standards 2. Socialism or Capitalism 3. WTO - What Now?
+Medium term factor - Lack of thought emancipation in the reform cycle. For the past 50 years, they were 1. Truth standards 2. Socialism or Capitalism 3. WTO - But what Now?
 
 Short-term factors - The troika is weak. Consumption investment (foreign companies do not want to invest, private enterprises do not dare to invest, state-owned enterprises cannot invest) import and export (trade war impacts expected)
 
@@ -95,8 +95,8 @@ Part III
    Competition Policy Transformation
    Antitrust
 2. To Deepen the reform of the scientific and technological system
-   Past 1.population 2.savings 3.foreign 4.technology are enough
-   Reform of science and technology system is needed now
+   For past years 1.population 2.savings 3.foreign 4.technology are enough
+   But reform of science and technology system is needed now
    Japan's new tax system for investment in small and micro enterprises is a good example
    To optimize the development environment of the private economy
 3. Open to the outside world and open to internal market as well
@@ -115,7 +115,7 @@ Part III
 
 ### YANG Yixian - Professor of Beijing University of Posts and Telecommunications
 
-Topic: Blockchain
+*Topic: Blockchain*
 
 Blockchain is actually same concept of Family Tree
 
@@ -145,7 +145,7 @@ Possible investment flashpoints
 
 ### XU Ming - General Manager of National Stock Transfer Company
 
-Topic: Private Equity New Third Board Historical Status and Future
+*Topic: Private Equity New Third Board Historical Status and Future*
 
 Private equity funds grow with NEEQ
 
@@ -200,7 +200,7 @@ Reform
 
 ### PAN Dong - General Manager, Everbright Financial Management 
 
-Topic: Asset Management New Ecology
+*Topic: Asset Management New Ecology*
 
 Industry changes:
 
@@ -212,7 +212,7 @@ Industry changes:
 
 Everbright Financial Management Development Started in 2015 and formally established in September 2019
 
-Product System - Colorful Sunshine Net
+Introduced Product System - Colorful Sunshine Net
 
 New ecology of asset management
 Return to asset management logic
@@ -232,7 +232,7 @@ Wealth management firm's outlook for the private equity market
 Economic development needs
 Compliance policy guidance
 
-Wealth management companies enter the private equity industry with licensed institutions
+Wealth management companies entering the private equity industry with licensed institutions
 
 Difficulties in the industry
 
@@ -242,9 +242,9 @@ Difficulties in the industry
 
 ### CHIA Jiesin - Head of Product Management, Asia-Pacific
 
-Topic:  Review and Prospect of Alternative Assets Industry
+*Topic:  Review and Prospect of Alternative Assets Industry*
 
-Preqin Introduction
+**Preqin Introduction**
 Industry data
 Various types of alternative assets
 
@@ -280,25 +280,25 @@ preqin has an ESG index
 
 ### ZHONG Rongsa - Vice Chairman of China Asset Management Association
 
-Three points of view - pension bottom design
+*Three points of view - pension bottom design*
 
-First, A current situation of the development of private equity securities is relatively rudimentary. There is a huge space for high net worth customers. Large private banking sector has recognized private equity funds. Private equity funds cannot yet enter directly. If you live on your own, you can do it all by yourself or outsource it to different needs. Private equity funds can issue products on their own. Clarification-legal relationship, private fund as consultant, trust + private placement. The problem is in publicity. Both performance and brand are recognized. Public and private laws still need to be separated and clarified. Long tail characteristics are obvious. The number is large, but the scale is not large, and there are more than 100 million.
+**First**, A current situation of the development of private equity securities is relatively rudimentary. There is a huge space for high net worth customers. Large private banking sector has recognized private equity funds. Private equity funds cannot yet enter directly. If you live on your own, you can do it all by yourself or outsource it to different needs. Private equity funds can issue products on their own. Clarification-legal relationship, private fund as consultant, trust + private placement. The problem is in publicity. Both performance and brand are recognized. Public and private laws still need to be separated and clarified. Long tail characteristics are obvious. The number is large, but the scale is not large, and there are more than 100 million.
 
-Second, investment tools are more flexible, richer, and more options, so the absolute benefit may be higher. Product filing is fast. The association has been reflecting on the registration process. Private equity funds are more like the Internet industry. The head mechanism is better, but the registration of the tail mechanism is tightening. Holding tube. Do not want the private equity license to be fired. Keep your running water.
+**Second**, investment tools are more flexible, richer, and more options, so the absolute benefit may be higher. Product filing is fast. The association has been reflecting on the registration process. Private equity funds are more like the Internet industry. The head mechanism is better, but the registration of the tail mechanism is tightening. Holding tube. Do not want the private equity license to be fired. Keep your running water.
 
-Third, Future work - negative list. More emphasis is placed on the transparency of registration. A clearer way of working next year. The fund did not know exactly what the association wanted. The agency sometimes creates opaque information. May be submitted later. The transparency of the review progress will also inform the market. Those who report abnormal information about which institutions will lose contact in the future should also be publicly posted. The association's new website will become an office website. Online before the Spring Festival. It will also become a deterrent website.
+**Third**, Future work - negative list. More emphasis is placed on the transparency of registration. A clearer way of working next year. The fund did not know exactly what the association wanted. The agency sometimes creates opaque information. May be submitted later. The transparency of the review progress will also inform the market. Those who report abnormal information about which institutions will lose contact in the future should also be publicly posted. The association's new website will become an office website. Online before the Spring Festival. It will also become a deterrent website.
 
-What's more?
+**What's more?**
 
-First, let more professional people to do this work in the future. Good institutions may customize their products in the future. Operational data reporting determines the creditworthiness of the fund.
+**First**, let more professional people to do this work in the future. Good institutions may customize their products in the future. Operational data reporting determines the creditworthiness of the fund.
 
-Second, the design of pensions. Through tax deferrals, everyone can keep investment. The association is pushing responsible investment to return to the origin of professionalism.
+**Second**, the design of pensions. Through tax deferrals, everyone can keep investment. The association is pushing responsible investment to return to the origin of professionalism.
 
 
 
 ### Ted Lee - SPM of CPPIB
 
-Topic:  View from long term investors
+*Topic:  View from long term investors*
 
 Overview of CPPIB'S china investments
 
@@ -317,7 +317,7 @@ Structural advantage
 
 Size and Scale
 
-Certainty of cpp fund assets
+Certainty of CPP fund assets
 
 Long term investment horizon
 
@@ -337,7 +337,7 @@ Geographic and asset-class diversification
 
 1/3 assets will be in emerging markets
 
-6 departments
+**6 departments**
 
 1. PE
 2. real estate
@@ -346,7 +346,7 @@ Geographic and asset-class diversification
 5. capital investment
 6. total portfolio management
 
-CPPIB has hk office as the 2nd office apart from HQ
+CPPIB launched HK office as the 2nd office apart from HQ when CPPIB decided to go aboard.
 
 Key investment in china, 52.8B USD
 
@@ -366,21 +366,21 @@ Invest more in R&D
 Slower growth and a "new normal state"
 
 External Portfolio Management (EPM)
-Can invest in private fund - hillhouse / gyassets
+Can invest in private fund - **hillhouse and gyassets** for example, famous China private funds
 
 QFII RQFII
 18% annual return
 
 ### RU Ping - Investment Director, Neuberger Berman
 
-Topic: Looking for the lighthouse in the mist 
+*Topic: Looking for the lighthouse in the mist*
 
-2020 Outlook
+**2020 Outlook**
 Everyone loses money in 2018
 Everyone makes money in 2019
 What will happen in 2020
 
-The biggest risk is political policy
+**The biggest risk is political policy**
 
 - US Election
 - Brexit news
@@ -405,17 +405,17 @@ Opportunities for liquidity alternatives in market ups and downs
 
 The next step in financial markets
 
-General Economy
+**General Economy**
 Is the US recession really here? No
 What else is worth observing? Consumer index
 Will the next recession be terrible, like in 2008? Probably not.
 
-Stock market articles
+**Stock market articles**
 What do you think about stock market events? Expect to lower
 US stocks are relatively high, how do you invest? Small cap
 How are U.S. companies profiting? Q3 2019 bottoms, Q4 2019 and 2020 will rebound
 
-Bonds
+**Bonds**
 The stock market is too expensive. Where have all the funds gone? Bond
 How are bonds distributed? Diversified investment
 
@@ -427,7 +427,12 @@ Topic: Exploration and Practice of Domestic Private Equity Funds by Foreign Inst
 
 ### Round Table One
 
-Hosted By DAN Bing
+**DAN Bing** - Member of the Association's Private Equity Investment Fund Committee, Chairman of OHIM
+**GAO Yuncheng** - Member of the Association's Private Equity Investment Fund Committee, General Manager of Greenwoods
+**HU Jianping** - Member of the Association's Private Equity Investment Fund Special Committee, Chairman of Tenbagger Capital Investment Committee
+**HAN Guangbin** - Chairman of New Thinking Investment
+
+*Hosted By DAN Bing*
 
 **GAO Yuncheng**
 Next year's return on investment may be lower than this year's big market Hong Kong
@@ -484,7 +489,14 @@ Because these companies with ESG issues often have policy risks
 
 ### Round Table Two
 
-Hosted By XIANG Jihong
+**XIANG Jihong** - Member of the Association's Private Equity Fund Committee, General Manager of JWIN Investment
+**CAI Canhuang** - Director of Retail Business, Ping An Bank
+**TANG Yiting** - Co-Chairman of the Association's Private Equity Investment Fund Committee, Chairman of LowRisk/LakeFront
+**LI Gang** - Vice General Manager of Pengyang AMC
+**YOU Jiong** - Millennium Fund Fund Manager
+**WU Qiong** - MD of Goldman Sachs - Bond Investment
+
+*Hosted By XIANG Jihong*
 
 **WU Qiong**
 Chinese dollar debt
@@ -548,7 +560,12 @@ Third, there will be some new energy projects
 
 ### Round Table Three
 
-Hosed by ZHANG Zhizhou
+**ZHANG Zhizhou** - Chairman of the Association's Private Equity Investment Fund Committee, Dunhe Asset Management General Manager
+**ZHOU Siyao** - Head of Kaifeng Investment Nonferrous Metals
+**LIU Zhe** - Research Director of Zhejiang Research Institute of Metal Industry
+**YANG Yilei** - Deputy General Manager of Dunhe Industry
+
+*Hosed by ZHANG Zhizhou*
 
 **ZHOU Siyao**
 Kaifeng Research on the whole industry chain
