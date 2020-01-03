@@ -8,7 +8,7 @@ permalink: /cqsodd/
 
 # CQS ODD
 
-## Seed ODDＯｖｅｒｖｉｅｗ
+## Seed ODD overiew
 
 ### Overview
 

@@ -6,7 +6,6 @@ permalink: /todo/
 
 ## Family To Do List
 
-- Jane Insurance
 ## HK To Do List
 
 - SZ social insurance
@@ -14,7 +13,6 @@ permalink: /todo/
 - Mobile number - both Nana and mine
 - Address information
 - Tax
-- Macau Trip
 
 ## Done
 
@@ -23,3 +21,5 @@ permalink: /todo/
 - ~~Yuni Salary Oct 2019~~
 - ~~Moving House~~
 - ~~FRM Part 2~~
+- ~~Jane Insurance~~
+
