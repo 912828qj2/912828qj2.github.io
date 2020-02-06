@@ -6,6 +6,10 @@ permalink: /log/
 
 ## Some Log
 
+### 06th Feb 2020
+
+1. Last week. Last week!
+
 ### 16th Jan 2020
 
 1. 真的不知道他们怎么想的，凭空就少一个人，这怎么做？
